@@ -1,0 +1,17 @@
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.Form1.resources
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.csproj.GenerateResource.cache
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.AssemblyInfoInputs.cache
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.AssemblyInfo.cs
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\bin\Debug\net10.0-windows\CAU_1.exe
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\bin\Debug\net10.0-windows\CAU_1.deps.json
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\bin\Debug\net10.0-windows\CAU_1.runtimeconfig.json
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\bin\Debug\net10.0-windows\CAU_1.dll
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\bin\Debug\net10.0-windows\CAU_1.pdb
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.dll
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\refint\CAU_1.dll
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.pdb
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.genruntimeconfig.cache
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\ref\CAU_1.dll
+C:\Users\Hoang Quan\source\repos\BTLT6\CAU_1\CAU_1\obj\Debug\net10.0-windows\CAU_1.csproj.Up2Date
